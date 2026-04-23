@@ -1,0 +1,8 @@
+[project]
+name = "gruppenprojekt-2026"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "plotly>=6.7.0",
+    "streamlit>=1.56.0",
+]
